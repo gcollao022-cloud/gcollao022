@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy [TU NOMBRE]
+# 👋 ¡Hola! Soy [Gonzalo Collao Alvarez.]
 
 ## 🚀 Sobre mí
-Soy estudiante de **[TU CARRERA]** apasionado/a por la tecnología y el desarrollo.
+Soy estudiante de **[informatica]** apasionado/a por la tecnología y el desarrollo.
 
 ## 💻 Tecnologías que estoy aprendiendo
 
 - 📱 Desarrollo de Aplicaciones Móviles Android.
-- 👩🏻‍ 💻 Trabajo con  ❤️Android 🔥Kotlin ❤️Java ❤️Rest API!
+- 💻 Trabajo con  ❤️Android 🔥Kotlin ❤️Java ❤️Rest API!
 - 👯 Busco colaboraciones con Android
 - 🤔 Buscando ayuda con integracione, SQL, AWS
 - Git & GitHub
@@ -16,16 +16,14 @@ Soy estudiante de **[TU CARRERA]** apasionado/a por la tecnología y el desarrol
 ## 🎯 Intereses
 - Desarrollo de Aplicaciones Móviles
 - Desarrollo Web
-- [Tu interés 3]
-- [Tu interés 4]
+  
 
 ## 📫 Contacto
-- LinkedIn: [tu-perfil]
-- Email: tu-email@ejemplo.com
+- Email: gcollao022@gmail.com
 - Portafolio: [tu-link]
 
 ## ✨ Dato curioso
-[Escribe algo interesante sobre ti]
+[amo dibujar, me gusta crear musica rap, amor por la gastronomia ]
 
 ---
 
